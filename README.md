@@ -1,16 +1,39 @@
-### Hi there 👋
+### Welcome to my GitHub! 💖
 
-<!--
-**escudeiro777/escudeiro777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 16y
+- 🎓 I’m currently studying on Escola SENAI de Informática
+- 👩‍🎓 I'm learning System Development
+- 🇧🇷 Just a girl from Brazil
+- 🇬🇧 Studying English (B2/Upper)
+
+### See more about my journey on IT
+<div>
+  <a href="https://github.com/escudeiro777>
+<div>  
+  <a href="https://github.com/escudeiro777">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=escudeiro777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escudeiro777&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+                                                                                                                                                     
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+   
+   ##
+                                                                                                                                                     
+<p>
+<img src="https://komarev.com/ghpvc/?username=escudeiro777&label=Profile%20views&color=blueviolet&style=flat" alt="Nayara_Escudeiro"/>
+</p>
+                                                                                                                                    
+ ### Contact me for more informations! 
+                                                                                                                                    
+<a href = "mailto:nanaescudeiro2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nayara-nogueira-escudeiro-do-nascimento-13a076202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  width="250" alt="404 image"/>
