@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 👩‍💻 16y
+- 👩‍💻 17y
 - 🎓 I’m currently studying on Escola SENAI de Informática
 - 👩‍🎓 I'm learning System Development
 - 🇧🇷 Just a girl from Brazil
