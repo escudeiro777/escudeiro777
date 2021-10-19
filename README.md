@@ -23,7 +23,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40"src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img align="center" alt="React" height="50" width="50 src="https://img.icons8.com/officel/40/000000/react.png"/>
+  <img align="center" alt="React" height="50" width="50" src="https://img.icons8.com/officel/40/000000/react.png"/>
   
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
