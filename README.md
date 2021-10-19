@@ -17,13 +17,14 @@
   <a href="https://github.com/escudeiro777">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=escudeiro777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escudeiro777&layout=compact&langs_count=7&theme=tokyonight"/>
+                                                                                                                                                     <img src="https://media1.giphy.com/media/HK1hAnDfVDWwNDFSUx/giphy.gif?cid=ecf05e47rtqrr97qsljrtwnq16fmlkue6pj7tm0zf750dzhv&amp;rid=giphy.gif&amp;ct=g" alt="Season 1 Oops GIF by Cruel Summer" style="width: 500px; height: 281.563px; left: 0px; top: 0px; opacity: 0;">
 </div>
                                                                                                                                                      
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="35" width="35" src="https://img.icons8.com/officel/40/000000/react.png"/>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
