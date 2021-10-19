@@ -36,4 +36,4 @@
 <a href = "mailto:nanaescudeiro2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nayara-nogueira-escudeiro-do-nascimento-13a076202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  width="250" alt="404 image"/>
+<img src="src="https://media0.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif?cid=ecf05e47304ftcekmesx1pxltuav51simpcbar8bp19vna42&rid=giphy.gif&ct=g"" alt="rick and morty"  width="250" alt="404 image"/>
