@@ -10,7 +10,7 @@
 - 🇧🇷 Just a girl from Brazil
 - 🇬🇧 Studying English (B2/Upper)
 
-<img src="https://media1.giphy.com/media/HK1hAnDfVDWwNDFSUx/giphy.gif?cid=ecf05e47rtqrr97qsljrtwnq16fmlkue6pj7tm0zf750dzhv&amp;rid=giphy.gif&amp;ct=g" alt="Season 1 Oops GIF by Cruel Summer" style="width: 350px; height: 130px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media4.giphy.com/media/pjwHYT6a3MdggZlvrk/giphy.gif?cid=ecf05e47v7nsbf8tk3iocwpgruag8fs7dhptch1pr8kbpxf5&amp;rid=giphy.gif&amp;ct=g" alt="internet computer GIF by Cartoon Network EMEA" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 
 ### See more about my journey on IT
 <div>
