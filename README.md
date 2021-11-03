@@ -42,3 +42,5 @@ https://beacons.ai/escudeiro777
 <a href="https://www.linkedin.com/in/nayara-nogueira-escudeiro-do-nascimento-13a076202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <img src="https://media0.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif?cid=ecf05e47304ftcekmesx1pxltuav51simpcbar8bp19vna42&amp;rid=giphy.gif&amp;ct=g" alt="Scared Rick And Morty GIF by Adult Swim" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+
+![Snake animation](https://github.com/escudeiro777/escudeiro777/blob/output/github-contribution-grid-snake.svg)
