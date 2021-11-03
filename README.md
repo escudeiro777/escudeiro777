@@ -29,7 +29,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="API" height="35" width="35" src="https://cdn-icons.flaticon.com/png/512/2020/premium/2020524.png?token=exp=1635960955~hmac=b6868462f9a980ca232522ebb552b47c">
-  <img align="center" alt="Figma" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" title="figma" class="loaded">
+  <img align="center" alt="Figma" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" title="figma" class="loaded">
   
    
    ##
