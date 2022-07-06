@@ -5,10 +5,9 @@
 ### About me:
 
 - 👩‍💻 17y
-- 🎓 I’m currently studying on Escola SENAI de Informática
-- 👩‍🎓 I'm learning System Development
+- 👩‍🎓 System Development Technician
 - 🇧🇷 Just a girl from Brazil
-- 🇬🇧 Studying English (B2/Upper)
+- 🇬🇧 Intermediate English. (B2/Upper)
 
 <img src="https://media4.giphy.com/media/pjwHYT6a3MdggZlvrk/giphy.gif?cid=ecf05e47v7nsbf8tk3iocwpgruag8fs7dhptch1pr8kbpxf5&amp;rid=giphy.gif&amp;ct=g" alt="internet computer GIF by Cartoon Network EMEA" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 
