@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 👩‍💻 17y
+- 👩‍💻 18y
 - 👩‍🎓 System Development Technician
 - 🇧🇷 Just a girl from Brazil
 - 🇬🇧 Intermediate English. (B2/Upper)
