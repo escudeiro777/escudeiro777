@@ -6,6 +6,7 @@
 
 - 👩‍💻 18y
 - 👩‍🎓 System Development Technician
+- Studying Cybersecurity at Fatec - Faculdade de Tecnologia
 - 🇧🇷 Just a girl from Brazil
 - 🇬🇧 Intermediate English. (B2/Upper)
 
