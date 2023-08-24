@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 👩‍💻 18y
+- 👩‍💻 19y
 - 👩‍🎓 System Development Technician
 - Studying Cybersecurity at Fatec - Faculdade de Tecnologia
 - 🇧🇷 Just a girl from Brazil
